@@ -1,13 +1,15 @@
 {
-  "dependencies": {
-    "classnames": "^2.5.1",
-    "geist": "^1.4.2"
-  }
-}
-{
+  "name": "pheraxie_site",
+  "version": "1.0.0",
   "scripts": {
-    "dev": "vite",           // ou next dev
-    "build": "vite build",   // ou next build
-    "start": "vite preview"  // ou next start
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "next": "^13.4.19",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
