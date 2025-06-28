@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "geist": "^1.4.2"
+  }
+}
+{
+  "scripts": {
+    "dev": "vite",           // ou next dev
+    "build": "vite build",   // ou next build
+    "start": "vite preview"  // ou next start
+  }
+}
